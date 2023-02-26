@@ -1,7 +1,6 @@
-# employee-attendance-FE
+# attendance-app
 
 ## Project setup
- - Go Inside attendance-app
 ```
 npm install
 ```
